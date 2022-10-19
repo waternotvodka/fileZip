@@ -12,7 +12,7 @@ file1 = "abc",
 
 zip file1 file1 output => output = "aabbcc"
 
-
+##
 
 file1 = "abc"
 
@@ -20,6 +20,6 @@ file2 = "123"
 
 zip file1 file2 output => output = "a1b2c3"
 
-
+##
 
 Usage: ./prog [file1] [file2] [outputFile]
